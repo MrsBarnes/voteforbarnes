@@ -128,7 +128,7 @@ div.allcontbox{
 }
 
 div#firstpage div.allcontbox{
-    background: url(/img/01/ganzi.png) no-repeat center;
+    background: url(./img/01/ganzi.png) no-repeat center;
     background-size: cover;
 }
 
@@ -313,7 +313,7 @@ div.boxes div.bigbox div.bigboxes:first-child {
 div#thirdpage div.allcontbox{
     height: calc(var(--svh, 1svh) * 100);
     width: auto;
-    background: url(/img/03/haco.png) no-repeat center;
+    background: url(/.img/03/haco.png) no-repeat center;
     background-size: cover;
     color: #fff;
     padding: 70px 140px 20px 120px;
@@ -1739,4 +1739,5 @@ div#thirdpage div.allcontbox .votetilte{
         transform: unset;
         padding-bottom: 10px;
     }
+
 }
